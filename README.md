@@ -18,11 +18,11 @@ It's nice to meet you. By the way, I'm a college student and I love to do design
 ## 🤝Let's Connect
 <p align="center">
 	<a href="https://github.com/reymunda"><img src="https://i.postimg.cc/9QtVYnKp/rey-github.png" alt="GitHub"/></a>
-	<a href="https://dribbble.com/reymunda"><img src="https://i.postimg.cc/0jw1MW77/rey-dribbble.png" alt="Dribbble"/></a>
-	<a href="https://www.behance.net/reymdw"><img src="https://i.postimg.cc/NfXQ5MxZ/Frame-172.png" alt="Behance"/></a>
-	<a href="din.com/in/reymunda-dwi-alfathur-63710a1b7/"><img src="https://i.postimg.cc/MG3G1LfL/rey-linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/rey.4302/"><img src="https://i.postimg.cc/tTLCMV5t/rey-instagram.png" alt="Instagram"/></a>
-	<a href="http://www.facebook.com/reymunda.t.m"><img src="https://i.postimg.cc/Nfvj8mLQ/rey-facebook.png" alt="Facebook"/></a>
+	<a href="https://dribbble.com/reymunda"><img src="https://i.postimg.cc/0jw1MW77/rey-dribbble.png" target="_blank" alt="Dribbble"/></a>
+	<a href="https://www.behance.net/reymdw"><img src="https://i.postimg.cc/NfXQ5MxZ/Frame-172.png" target="_blank" alt="Behance"/></a>
+	<a href="din.com/in/reymunda-dwi-alfathur-63710a1b7/"><img src="https://i.postimg.cc/MG3G1LfL/rey-linkedin.png" target="_blank" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/rey.4302/"><img src="https://i.postimg.cc/tTLCMV5t/rey-instagram.png" target="_blank" alt="Instagram"/></a>
+	<a href="http://www.facebook.com/reymunda.t.m"><img src="https://i.postimg.cc/Nfvj8mLQ/rey-facebook.png" target="_blank" alt="Facebook"/></a>
 </p>
 <br><br>
 <img src="https://i.postimg.cc/GmkYJbb5/rey-thankyou2.png">
