@@ -2,7 +2,7 @@
 
 ## 🤵 A people who interested in:
 
-<img src="https://i.postimg.cc/jjV3gq00/Frame-165.png"> <img src="https://i.postimg.cc/zB7dGnL8/Frame-166.png">
+<img src="https://i.postimg.cc/Qxgn49kQ/rey-ui.png"> <img src="https://i.postimg.cc/mg8p4vnh/rey-fe.png">
 
 It's nice to meet you. By the way, I'm a college student and I love to do design,especially UI/UX Design, slice it into code (Web UI Design).
 
