@@ -9,7 +9,8 @@ It's nice to meet you. By the way, I'm a college student and I love to do design
 👀 About Me:
 * Love UI/UX Design and Front End Development
 * Currently learning Webpack and ReactJS
-* Use Figma for UI Design
+* Use whimsical for wireframe
+* Use Figma for UI Design & rapid prototype
 * VSCode for code
 * Currently make some UI Design projects with community. You can visit my UI Design portfolio below.
 
