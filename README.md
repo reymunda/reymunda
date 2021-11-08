@@ -24,5 +24,5 @@ It's nice to meet you. By the way, I'm a college student and I love to do design
 	<a href="https://www.instagram.com/rey.4302/"><img src="https://i.postimg.cc/tTLCMV5t/rey-instagram.png" alt="Instagram"/></a>
 	<a href="http://www.facebook.com/reymunda.t.m"><img src="https://i.postimg.cc/Nfvj8mLQ/rey-facebook.png" alt="Facebook"/></a>
 </p>
-<br><br><br>
+<br><br>
 <img src="https://i.postimg.cc/GmkYJbb5/rey-thankyou2.png">
