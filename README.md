@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/XqSytvcF/rey-heading.png">
 
-## 🤵 A people who interested in:
+## 🤵 Person who interested in:
 
 <img src="https://i.postimg.cc/Qxgn49kQ/rey-ui.png"> <img src="https://i.postimg.cc/mg8p4vnh/rey-fe.png">
 
