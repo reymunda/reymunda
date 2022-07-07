@@ -4,7 +4,7 @@
 
 <img src="https://i.postimg.cc/Qxgn49kQ/rey-ui.png"> <img src="https://i.postimg.cc/mg8p4vnh/rey-fe.png">
 
-It's nice to meet you. By the way, I'm a college student and I love to do design,especially UI/UX Design, slice it into code (Web UI Design).
+It's nice to meet you. By the way, I'm a college student and I love design,especially UI/UX Design, slice it into code (Web UI Design).
 
 👀 About Me:
 * Love UI/UX Design and Front End Development
